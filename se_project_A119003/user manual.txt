@@ -1,0 +1,9 @@
+user manual:
+1st open "start_SE.py"
+2. click on judge
+{
+user name:"sharad"
+password:kdm
+}
+
+in view case u can enter case id as kirti to view a demo case
